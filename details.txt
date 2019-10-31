@@ -1,0 +1,7 @@
+http://labs.infyom.com/laravelgenerator/docs/6.0/installation
+https://hdtuto.com/article/laravel-5-crud-generator-example
+
+
+
+rodar server:
+php -S 0.0.0.0:8000 public/index.php
